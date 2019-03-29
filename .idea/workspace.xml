@@ -12,7 +12,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17d0c2ad-1675-4d83-89e0-e3066baa124d" name="Default Changelist" comment="" />
+    <list default="true" id="17d0c2ad-1675-4d83-89e0-e3066baa124d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serialize/Serialize.h" beforeDir="false" afterPath="$PROJECT_DIR$/Serialize/Serialize.h" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/CMakeFiles/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Serialize/Serialize.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="46" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="72" />
+            <state relative-caret-position="417">
+              <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
               <folding>
                 <element signature="e#112#131#0" expanded="true" />
                 <element signature="e#197#206#0" expanded="true" />
@@ -69,6 +73,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -98,6 +105,7 @@
     <option name="width" value="1501" />
     <option name="height" value="973" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -178,12 +186,12 @@
       <option name="presentableId" value="Default" />
       <updated>1553782408958</updated>
       <workItem from="1553782410179" duration="4390000" />
-      <workItem from="1553787331746" duration="24639000" />
+      <workItem from="1553787331746" duration="25329000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29029000" />
+    <option name="totallyTimeSpent" value="29719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
@@ -194,7 +202,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23503809" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2355507" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39928487" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -345,8 +353,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Serialize/Serialize.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="46" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="72" />
+        <state relative-caret-position="417">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
           <folding>
             <element signature="e#112#131#0" expanded="true" />
             <element signature="e#197#206#0" expanded="true" />

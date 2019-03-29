@@ -38,9 +38,7 @@ public:
         std::copy((char *) &data[0], (char *) &data[0] + data.size() * sizeof(T), buff);
 //        print_hex((unsigned  char *)buff, data.size() * sizeof(T));
 
-//        std::cout << data.size() << std::endl;
-
-//
+        //deserialize
         T * arr;
         arr = (T *) malloc( sizeof(T) * data.size());
         std::copy(buff, buff + sizeof(T) * data.size(), (char *) arr);
