@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MapFunctions"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ntallaris/CLionProjects/AbstractWithSharedObjects"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/home/ntallaris/CLionProjects/AbstractWithSharedObjects"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/home/ntallaris/CLionProjects/AbstractWithSharedObjects"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MapFunctions">
+				<Option output="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/libMapFunctions.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ntallaris/CLionProjects/AbstractWithSharedObjects"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 MapFunctions"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MapFunctions/fast">
+				<Option output="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/libMapFunctions.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ntallaris/CLionProjects/AbstractWithSharedObjects"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 MapFunctions/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ntallaris/CLionProjects/AbstractWithSharedObjects"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AbstractWithSharedObjects">
+				<Option output="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/AbstractWithSharedObjects" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ntallaris/CLionProjects/AbstractWithSharedObjects"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 AbstractWithSharedObjects"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AbstractWithSharedObjects/fast">
+				<Option output="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/AbstractWithSharedObjects" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ntallaris/CLionProjects/AbstractWithSharedObjects"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 AbstractWithSharedObjects/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/home/ntallaris/CLionProjects/AbstractWithSharedObjects"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ntallaris/CLionProjects/AbstractWithSharedObjects"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/home/ntallaris/CLionProjects/AbstractWithSharedObjects"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/Serialize/Serialize.h">
+			<Option target="AbstractWithSharedObjects"/>
+		</Unit>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/SharedLibraries/mapFunctions.cpp">
+			<Option target="MapFunctions"/>
+			<Option target="AbstractWithSharedObjects"/>
+		</Unit>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/SharedMemory/Pointer.cpp">
+			<Option target="AbstractWithSharedObjects"/>
+		</Unit>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/SharedMemory/Pointer.h">
+			<Option target="AbstractWithSharedObjects"/>
+		</Unit>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/SharedMemory/PointerList.cpp">
+			<Option target="AbstractWithSharedObjects"/>
+		</Unit>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/SharedMemory/PointerList.h">
+			<Option target="AbstractWithSharedObjects"/>
+		</Unit>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/SharedMemory/SharedMemoryGenerator.cpp">
+			<Option target="AbstractWithSharedObjects"/>
+		</Unit>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/SharedMemory/SharedMemoryGenerator.h">
+			<Option target="AbstractWithSharedObjects"/>
+		</Unit>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/SharedMemory/resources/SharedMemoryData.cpp">
+			<Option target="AbstractWithSharedObjects"/>
+		</Unit>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/SharedMemory/resources/SharedMemoryData.h">
+			<Option target="AbstractWithSharedObjects"/>
+		</Unit>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/main.cpp">
+			<Option target="AbstractWithSharedObjects"/>
+		</Unit>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

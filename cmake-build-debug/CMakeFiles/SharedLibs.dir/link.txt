@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libSharedLibs.so -o libSharedLibs.so CMakeFiles/SharedLibs.dir/SharedLibraries/mapFunctions.cpp.o 

@@ -1,0 +1,8 @@
+/home/ntallaris/CLionProjects/AbstractWithSharedObjects/CMakeFiles/install/strip.dir
+/home/ntallaris/CLionProjects/AbstractWithSharedObjects/CMakeFiles/install/local.dir
+/home/ntallaris/CLionProjects/AbstractWithSharedObjects/CMakeFiles/MapFunctions.dir
+/home/ntallaris/CLionProjects/AbstractWithSharedObjects/CMakeFiles/edit_cache.dir
+/home/ntallaris/CLionProjects/AbstractWithSharedObjects/CMakeFiles/AbstractWithSharedObjects.dir
+/home/ntallaris/CLionProjects/AbstractWithSharedObjects/CMakeFiles/list_install_components.dir
+/home/ntallaris/CLionProjects/AbstractWithSharedObjects/CMakeFiles/rebuild_cache.dir
+/home/ntallaris/CLionProjects/AbstractWithSharedObjects/CMakeFiles/install.dir

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="AbstractWithSharedObjects"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AbstractWithSharedObjects">
+				<Option output="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/AbstractWithSharedObjects" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/Makefile&quot;  VERBOSE=1 AbstractWithSharedObjects"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AbstractWithSharedObjects/fast">
+				<Option output="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/AbstractWithSharedObjects" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/Makefile&quot;  VERBOSE=1 AbstractWithSharedObjects/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ntallaris/CLionProjects/AbstractWithSharedObjects/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/SharedLibraries/mapFunctions.cpp">
+			<Option target="AbstractWithSharedObjects"/>
+		</Unit>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/SharedMemory/Pointer.cpp">
+			<Option target="AbstractWithSharedObjects"/>
+		</Unit>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/SharedMemory/Pointer.h">
+			<Option target="AbstractWithSharedObjects"/>
+		</Unit>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/SharedMemory/PointerList.cpp">
+			<Option target="AbstractWithSharedObjects"/>
+		</Unit>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/SharedMemory/PointerList.h">
+			<Option target="AbstractWithSharedObjects"/>
+		</Unit>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/SharedMemory/SharedMemoryGenerator.cpp">
+			<Option target="AbstractWithSharedObjects"/>
+		</Unit>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/SharedMemory/SharedMemoryGenerator.h">
+			<Option target="AbstractWithSharedObjects"/>
+		</Unit>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/SharedMemory/resources/SharedMemoryData.cpp">
+			<Option target="AbstractWithSharedObjects"/>
+		</Unit>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/SharedMemory/resources/SharedMemoryData.h">
+			<Option target="AbstractWithSharedObjects"/>
+		</Unit>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/main.cpp">
+			<Option target="AbstractWithSharedObjects"/>
+		</Unit>
+		<Unit filename="/home/ntallaris/CLionProjects/AbstractWithSharedObjects/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
